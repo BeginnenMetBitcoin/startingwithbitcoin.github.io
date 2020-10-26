@@ -9,8 +9,8 @@
     <atom:link href="https://startingwithbitcoin.com/podcast.rss" rel="self" type="application/rss+xml"/>
     <link>https://startingwithbitcoin.com/</link>
     <itunes:new-feed-url>https://startingwithbitcoin.com/podcast.rss</itunes:new-feed-url>
-    <itunes:summary>Een Nederlandstalige podcast waar ik Bitcoin uitleg.</itunes:summary>
-    <itunes:subtitle>Toegankelijke content voor een beginner die nog nooit wat met Bitcoin gedaan heeft, maar ook diepere technische uitleg.</itunes:subtitle>
+    <itunes:summary>A podcast where I explain Bitcoin and Lightning to beginners</itunes:summary>
+    <itunes:subtitle>Accessible content for a beginner (no experience whatsoever), and sometimes deeper technical episodes, for those who have more experience, or have listened to other intro episodes.</itunes:subtitle>
     <language>nl</language>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
