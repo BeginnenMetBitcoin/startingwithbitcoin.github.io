@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0/">
+  <channel>
+    <title>Starting with Bitcoin</title>
+    <description>startingwithbitcoin.com.com</description>
+    <managingEditor>abellykens@pm.me (Starting with Bitcoin)</managingEditor>
+    <copyright>© 2020 startingwithbitcoin.com</copyright>
+    <generator>Starting with Bitcoin</generator>
+    <atom:link href="https://startingwithbitcoin.com/podcast.rss" rel="self" type="application/rss+xml"/>
+    <link>https://startingwithbitcoin.com/</link>
+    <itunes:new-feed-url>https://startingwithbitcoin.com/podcast.rss</itunes:new-feed-url>
+    <itunes:summary>Een Nederlandstalige podcast waar ik Bitcoin uitleg.</itunes:summary>
+    <itunes:subtitle>Toegankelijke content voor een beginner die nog nooit wat met Bitcoin gedaan heeft, maar ook diepere technische uitleg.</itunes:subtitle>
+    <language>nl</language>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology">
+    </itunes:category>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:category text="Education">
+      <itunes:category text="How To"/>
+    </itunes:category>
+    <itunes:keywords>Bitcoin,explained,english,lightning</itunes:keywords>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://startingwithbitcoin.com/assets/Logo-big-rgb.png"/>
+    <itunes:owner>
+      <itunes:email>abellykens@pm.me</itunes:email>
+      <itunes:name>Abel Lykens</itunes:name>
+    </itunes:owner>
+    <itunes:author>Marnix Schoorel</itunes:author>
+    <image>
+      <url>https://startingwithbitcoin.com/assets/Logo-big-rgb.png</url>
+      <link>https://startingwithbitcoin.com/</link>
+      <title>Starting with Bitcoin</title>
+    </image>
+
+    <!--<item>
+      <link>https://startingwithbitcoin.com/#ep29</link>
+      <title>Aflevering 29: Lightning </title>
+      <itunes:title>Aflevering 29: Lightning </itunes:title>
+      <description><![CDATA[
+          <p><b>Uitleg over de nieuwe Lightning </b></p>
+          <p><a target="_blank" href="https://pay.startingwithbitcoin.com">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/startingwithbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep29-AUP.mp3" preload="none" controls="controls"></audio></p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+Uitleg over de nieuwe Lightning 
+
+https://bitcoinstickers.nl/
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+          <p><b>Uitleg over de nieuwe Lightning </b></p>
+          <p><a target="_blank" href="https://pay.startingwithbitcoin.com">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/startingwithbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep29-AUP.mp3" preload="none" controls="controls"></audio></p>
+      ]]></content:encoded>
+      <itunes:season>3</itunes:season>
+      <guid>https://startingwithbitcoin.com/#ep29</guid>
+      <pubDate>Sat, XXXXXXXXXX 15 Aug 2020 00:00:28 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://startingwithbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:19:30</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep29-AUP.mp3" type="audio/mpeg" length="23710349"/>
+    </item>-->
+
+
+
+  </channel>
+</rss>
