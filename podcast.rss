@@ -35,35 +35,33 @@
       <title>Starting with Bitcoin</title>
     </image>
 
-    <!--<item>
-      <link>https://startingwithbitcoin.com/#ep29</link>
-      <title>Aflevering 29: Lightning </title>
-      <itunes:title>Aflevering 29: Lightning </itunes:title>
+
+    <item>
+      <link>https://startingwithbitcoin.com/#ep0</link>
+      <title>Episode 0: About this podcast, plans and introduction</title>
+      <itunes:title>Episode 0: About this podcast, plans and introduction</itunes:title>
       <description><![CDATA[
-          <p><b>Uitleg over de nieuwe Lightning </b></p>
-          <p><a target="_blank" href="https://pay.startingwithbitcoin.com">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/startingwithbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
-          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep29-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><b>Introduction, what are the plans with this podcast...!</b></p>
+          <p><a target="_blank" href="https://t.me/startingwithbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/startingbitcoin">Twitter</a> - (no investment advice)</p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/startingwithbitcoin/mp3/ep0-AUP.mp3" preload="none" controls="controls"></audio></p>
       ]]></description>
       <itunes:summary><![CDATA[
-Uitleg over de nieuwe Lightning 
-
-https://bitcoinstickers.nl/
+        Introduction, what are the plans with this podcast...!
       ]]></itunes:summary>
       <content:encoded><![CDATA[
-          <p><b>Uitleg over de nieuwe Lightning </b></p>
-          <p><a target="_blank" href="https://pay.startingwithbitcoin.com">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/startingwithbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
-          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep29-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><b>Introduction, what are the plans with this podcast...!</b></p>
+          <p><a target="_blank" href="https://t.me/startingwithbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/startingbitcoin">Twitter</a> - (no investment advice)</p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/startingwithbitcoin/mp3/ep0-AUP.mp3" preload="none" controls="controls"></audio></p>
       ]]></content:encoded>
       <itunes:season>3</itunes:season>
-      <guid>https://startingwithbitcoin.com/#ep29</guid>
-      <pubDate>Sat, XXXXXXXXXX 15 Aug 2020 00:00:28 +0000</pubDate>
+      <guid>https://startingwithbitcoin.com/#ep0</guid>
+      <pubDate>Tue, 27 Oct 2020 00:00:28 +0000</pubDate>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://startingwithbitcoin.com/assets/Logo-big-rgb.png"/>
-      <itunes:duration>00:19:30</itunes:duration>
-      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep29-AUP.mp3" type="audio/mpeg" length="23710349"/>
-    </item>-->
-
+      <itunes:duration>00:03:49</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/startingwithbitcoin/mp3/ep0-AUP.mp3" type="audio/mpeg" length="2788793"/>
+    </item>
 
 
   </channel>
