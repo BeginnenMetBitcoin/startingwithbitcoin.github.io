@@ -47,16 +47,10 @@
       <description><![CDATA[
           <p><b>Introduction, what are the plans with this podcast...!</b></p>
           <p><a target="_blank" href="https://t.me/startingwithbitcoin">Telegram group</a> - <a target="_blank" href="https://twitter.com/startingbitcoin">Twitter</a> - (no investment advice)</p>
-          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/startingwithbitcoin/mp3/ep0-AUP.mp3" preload="none" controls="controls"></audio></p>
       ]]></description>
       <itunes:summary><![CDATA[
         Introduction, what are the plans with this podcast...!
       ]]></itunes:summary>
-      <content:encoded><![CDATA[
-          <p><b>Introduction, what are the plans with this podcast...!</b></p>
-          <p><a target="_blank" href="https://t.me/startingwithbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/startingbitcoin">Twitter</a> - (no investment advice)</p>
-          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/startingwithbitcoin/mp3/ep0-AUP.mp3" preload="none" controls="controls"></audio></p>
-      ]]></content:encoded>
       <itunes:season>3</itunes:season>
       <guid>https://startingwithbitcoin.com/#ep0</guid>
       <pubDate>Tue, 27 Oct 2020 00:00:28 +0000</pubDate>
